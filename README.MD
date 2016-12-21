@@ -1,0 +1,4 @@
+本库为了方便初始化js项目需要的
+gitignore配置
+editorconfig配置
+eslintrc配置
